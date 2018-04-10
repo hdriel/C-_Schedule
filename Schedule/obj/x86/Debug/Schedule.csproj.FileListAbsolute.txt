@@ -1,0 +1,83 @@
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\Schedule.exe.config
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.ResolveComReference.cache
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\Schedule.exe
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\Schedule.pdb
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\EPPlus.dll
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\EPPlus.xml
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.Form1.resources
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.FormImport.resources
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.Properties.Resources.resources
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.FormWeekSchedule.resources
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe.config
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.ResolveComReference.cache
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.pdb
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.dll
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.xml
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.FormWeekSchedule.resources
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Form1.resources
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.FormImport.resources
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Properties.Resources.resources
+C:\Users\HDRIE\Documents\Visual Studio 2015\Projects\גיבוי 2017.09ג מערכת שבועית טיוטה\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\HDRIE\documents\visual studio 2015\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.prototype.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe.config
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.ResolveComReference.cache
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.pdb
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.dll
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.xml
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Form1.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.FormImport.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Properties.Resources.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.prototype.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.SaveAndLoad.Form_Save.resources
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Hadriel\Documents\Visual Studio 2015\Projects\Schedule\Schedule\Schedule\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe.config
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.ResolveComReference.cache
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\Schedule.pdb
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.dll
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\EPPlus.xml
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Form1.resources
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.FormImport.resources
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.Properties.Resources.resources
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.prototype.resources
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.SaveAndLoad.Form_Save.resources
+C:\Users\Hadriel\Desktop\Schedule\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.GenerateResource.Cache
