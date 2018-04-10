@@ -9,6 +9,7 @@ I will present the software I did, accompanied by pictures from the software par
 I have implemented a interface of the system to a student schedule, when each lesson consists of: lecture, lab, practice.
 And can import the list of lessons from the beginning of a semester from Excel<br>
 <img src="https://profile.fcdn.co.il/images/0__05acd2ea4ec740.jpg" width="600"><br>
+<img src="https://profile.fcdn.co.il/images/0__05acd33c20a55d.jpg" width="600"><br>
 or manually enter the relevant lessons, the user can delete classes or mark them as irrelevant.<br>
 <img src="https://profile.fcdn.co.il/images/0__05acd2e7fb5844.jpg" width="600"><br>
 <img src="https://profile.fcdn.co.il/images/0__05acd2e8c63226.jpg" width="600"><br>
